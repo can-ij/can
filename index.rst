@@ -17,7 +17,7 @@ Canon printers offer a range of printers to satisfy different needs of the users
 Downloading Procedure of Canon Printer Driver
 *************
 
-** Steps to download the canon ij printer driver online are given below:**
+**Steps to download the canon ij printer driver online are given below:**
 
 * Start the process by opening your web browser and visit: `canon.com/ijsetup <https://can-ij.rtfd.io/en/latest/>`_ 
 * Enter the serial number or product name you wish to download.
